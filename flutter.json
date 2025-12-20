@@ -3,7 +3,7 @@
     "msg": "Login successful",
     "rest_api": "https://sksmemorial.in/school_api/schoolActn/actn_api.php",
     "msg2": "Login successful",
-    "msg3": "Login amit",
+    "msg3": "Login rakesh",
     "data": {
       "id": 1,
       "api_link": "https://sksmemorial.in/school_api/schoolActn/actn.php"
