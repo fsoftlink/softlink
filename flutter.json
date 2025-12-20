@@ -2,6 +2,7 @@
     "status": "success",
     "msg": "Login successful",
     "rest_api": "https://sksmemorial.in/school_api/schoolActn/actn_api.php",
+    "msg2": "Login successful",
     "data": {
       "id": 1,
       "api_link": "https://sksmemorial.in/school_api/schoolActn/actn.php"
