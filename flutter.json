@@ -1,7 +1,7 @@
 {
     "status": "success",
     "msg": "Login successful",
-    "common": "https://sksmemorial.in/school_api/schoolActn/actn_api.php",
+    "common": "https://newpopularacademy.in/school/schoolDatabase/authApi.php",
     "sks": "https://sksmemorial.in/school_api/schoolActn/actn_api.php",
     "npa": "https://sksmemorial.in/school_api/schoolActn/actn_api.php",
     "futurecreation": "https://sksmemorial.in/school_api/schoolActn/actn_api.php",
