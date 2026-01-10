@@ -1,7 +1,14 @@
 {
     "status": "success",
     "msg": "Login successful",
-    "rest_api": "https://sksmemorial.in/school_api/schoolActn/actn_api.php",
+    "common": "https://sksmemorial.in/school_api/schoolActn/actn_api.php",
+    "sks": "https://sksmemorial.in/school_api/schoolActn/actn_api.php",
+    "npa": "https://sksmemorial.in/school_api/schoolActn/actn_api.php",
+    "futurecreation": "https://sksmemorial.in/school_api/schoolActn/actn_api.php",
+    "mountangle": "https://sksmemorial.in/school_api/schoolActn/actn_api.php",
+    "shamrock": "https://sksmemorial.in/school_api/schoolActn/actn_api.php",
+    "backup": "https://sksmemorial.in/school_api/schoolActn/actn_api.php",
+    "demo": "https://sksmemorial.in/school_api/schoolActn/actn_api.php",
     "msg2": "Login successful",
     "msg3": "Login dhanbad",
     "data": {
